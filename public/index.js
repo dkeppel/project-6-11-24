@@ -1,11 +1,13 @@
 const firebaseConfig = {
-    apiKey: 'AIzaSyD-EXAMPLE_KEY',
-    authDomain: 'your-app-id.firebaseapp.com',
-    projectId: 'your-app-id',
-    storageBucket: 'your-app-id.appspot.com',
-    messagingSenderId: '1234567890',
-    appId: '1:1234567890:web:abcdef123456',
-  };
+  apiKey: "AIzaSyA6QkifGcb_HK8mYs94tlHZi5-7qsP0qPQ",
+  authDomain: "fir-f34c8.firebaseapp.com",
+  projectId: "fir-f34c8",
+  storageBucket: "fir-f34c8.firebasestorage.app",
+  messagingSenderId: "741912201158",
+  appId: "1:741912201158:web:781aaa38732d8c4e4594c7"
+};
+
+
   
   // Initialize Firebase
   const app = firebase.initializeApp(firebaseConfig);
